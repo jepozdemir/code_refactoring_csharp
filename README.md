@@ -1,6 +1,6 @@
 ![Code Refactoring](/cover.jpg "Code Refactoring")
 
-This repository contains code samples and techniques referenced in my Medium blog post, ["C# Code Refactoring Techniques"]([https://medium.com/your-post-url](https://medium.com/dev-genius/c-code-refactoring-techniques-from-chaos-to-clarity-b633648ac316)). This post and repository focus on best practices and techniques to refactor C# code, making it cleaner, more readable, and easier to maintain.
+This repository contains code samples and techniques referenced in my Medium blog post, ["C# Code Refactoring Techniques"](https://medium.com/dev-genius/c-code-refactoring-techniques-from-chaos-to-clarity-b633648ac316). This post and repository focus on best practices and techniques to refactor C# code, making it cleaner, more readable, and easier to maintain.
 
 ## Overview
 In this blog post, I discuss various refactoring techniques for C# applications that enhance code quality, readability, and maintainability. Each refactoring technique is demonstrated with before-and-after code examples to show how these changes improve the code.
@@ -35,7 +35,7 @@ In this blog post, I discuss various refactoring techniques for C# applications 
   Enhance code flexibility and testability by using dependency injection to manage dependencies.
 
 ## How to Use
-1. **Read the Blog Post**: Start by reading the full blog post on Medium [here]([https://medium.com/your-post-url](https://medium.com/dev-genius/c-code-refactoring-techniques-from-chaos-to-clarity-b633648ac316)).
+1. **Read the Blog Post**: Start by reading the full blog post on Medium [here](https://medium.com/dev-genius/c-code-refactoring-techniques-from-chaos-to-clarity-b633648ac316).
 2. **Explore Code Samples**: Review the repository for code examples demonstrating each refactoring technique.
 3. **Practice Refactoring**: Use the provided examples to practice and apply each technique to your own C# projects.
 
