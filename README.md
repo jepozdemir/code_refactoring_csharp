@@ -1,4 +1,4 @@
-# C# Code Refactoring Techniques for Clean and Maintainable Code
+# C# Code Refactoring Techniques
 *From Chaos to Clarity*
 
 ![Code Refactoring](/cover.jpg "Code Refactoring")
@@ -51,5 +51,5 @@ If you have any feedback on the blog post or this repository, please leave a com
 ## License
 This project is licensed under the MIT License.
 
-Thank you!
-If you found this helpful and would like to show support; don't forget to give it a star and share it with others who might benefit from it.👏👏👏👏👏
+*Thank you!*
+*If you found this helpful and would like to show support; don't forget to give it a star and share it with others who might benefit from it.👏👏👏👏👏*
